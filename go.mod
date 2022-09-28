@@ -1,6 +1,6 @@
 module github.com/higebu/sendgrid-send
 
-go 1.18
+go 1.19
 
 require github.com/sendgrid/sendgrid-go v3.12.0+incompatible+incompatible
 
